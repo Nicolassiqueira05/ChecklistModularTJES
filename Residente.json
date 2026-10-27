@@ -1,0 +1,92 @@
+{
+  "documentacão geral": [
+    {
+      "site": "Carteira de Trabalho (página com foto)",
+      "sei": "(X) Carteira de Trabalho (página com foto);"
+    },
+    {
+      "site": "Carteira de Identidade",
+      "sei": "(X) Carteira de Identidade;"
+    },
+    {
+      "site": "Cadastro de Pessoa Física (CPF)",
+      "sei": "(X) Cadastro de Pessoa Física (CPF);"
+    },
+    {
+      "site": "Comprovante de Residência",
+      "sei": "(X) Comprovante de Residência;"
+    },
+    {
+      "site": "PIS/PASEP/NIT",
+      "sei": "(X) PIS/PASEP;"
+    },
+    {
+      "site": "Cartão de Benefício de Aposentadoria (caso seja aposentado)",
+      "sei": "(X) Cartão de Benefício de Aposentadoria (caso seja aposentado);"
+    },
+    {
+      "site": "ASO (Atestado de Saúde Ocupacional)",
+      "sei": "(X) ASO fornecido por médico do trabalho, com validade de até 60 (sessenta) dias, contados da data de emissão;"
+    },
+    {
+      "site": "Comprovante de situação cadastral no CPF",
+      "sei": "(X) Comprovante de situação cadastral no Cadastro de Pessoas Físicas;"
+    },
+    {
+      "site": "Comprovante de dados bancários (Banestes)",
+      "sei": "(X) Comprovante de dados bancários, no qual conste número da agência e da conta corrente de sua titularidade mantida no Banco do Estado do Espírito Santo – BANESTES S.A;"
+    },
+    {
+      "site": "Declaração da Instituição de Ensino (Pós-Graduação, Mestrado, Doutorado e Pós-Doutorado) ou comprovação de conclusão do curso há até 5 anos",
+      "sei": "(X) Declaração da Instituição de Ensino que comprove vínculo educacional (Pós-Graduação, Mestrado, Doutorado e Pós-Doutorado);"
+    },
+    {
+      "site": "Diploma e/ou comprovante de conclusão de curso",
+      "sei": "(X) Diploma e/ou comprovante de conclusão de curso;"
+    },
+    {
+      "site": "Declaração de não inscrição ativa junto à OAB (licenciamento, caso possua inscrição)",
+      "sei": "(X) Declaração de não inscrição ativa junto a OAB;"
+    }
+  ],
+  "Formulários": [
+    {
+      "site": "Formulário I - Ficha Cadastral",
+      "sei": "(X) Formulário I - Ficha Cadastral; (Formulário I)"
+    },
+    {
+      "site": "Formulário V - Declaração sobre antecedentes criminais, com firma reconhecida",
+      "sei": "(X) Formulário V- Declaração assinada pelo Residente, com firma reconhecida, na qual conste não ter sido indiciado em inquérito policial ou processado criminalmente ou, quando houver, notícia da ocorrência com os esclarecimentos pertinentes, para fins de análise da vida pregressa e atual e da conduta individual e social do aluno selecionado; (Formulário V)"
+    },
+    {
+      "site": "Formulário VI - Declaração de não-vínculo Profissional",
+      "sei": "(X) Declaração de não-vínculo Profissional; (Formulário VI)"
+    },
+    {
+      "site": "Formulário VIII - Declaração de Parentesco",
+      "sei": "(X) Formulário VIII - Declaração de Parentesco; (Formulário VIII)"
+    }
+  ],
+  "certidoes negativas": [
+    {
+      "site": "Certidão Negativa Eleitoral",
+      "sei": "(X) Certidão Negativa da Justiça Eleitoral (serviço oferecido pelo Tribunal Superior Eleitoral - TSE); (Obtida no sítio eletrônico do TSE);"
+    },
+    {
+      "site": "Certidão Negativa Militar",
+      "sei": "(X) Certidão Negativa da Justiça Militar (serviço oferecido pelo Superior Tribunal Militar - STM); (Obtida no sítio eletrônico do STM);"
+    },
+    {
+      "site": "Certidão Criminal Estadual - TJES (1ª Instância)",
+      "sei": "(X) Certidões negativas dos distribuidores criminais das Justiças Federal, Estadual ou do Distrito Federal dos lugares em que tenha residido nos últimos 5 (cinco) anos. (1ª Instância);"
+    },
+    {
+      "site": "Certidão Criminal Estadual - TJES (2ª Instância)",
+      "sei": "(X) Certidões negativas dos distribuidores criminais das Justiças Federal, Estadual ou do Distrito Federal dos lugares em que tenha residido nos últimos 5 (cinco) anos. (2ª Instância);"
+    },
+    {
+      "site": "Certidão Criminal Federal - TRF (2ª Região)",
+      "sei": "(X) Certidões negativas dos distribuidores criminais das Justiças Federal, Estadual ou do Distrito Federal dos lugares em que tenha residido nos últimos 5 (cinco) anos. (2ª Região);"
+    }
+  ]
+}
