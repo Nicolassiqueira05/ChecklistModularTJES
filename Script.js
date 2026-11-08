@@ -97,9 +97,8 @@ let json = JSON.stringify(t);
 const pendencias = JSON.parse(json);
 
 let indexGlobal = 0;
-let dragAtivo = true; // Controla se o arraste está habilitado ou não
+let dragAtivo = true;
 
-// Atualiza a interface (botão e cursores) conforme o estado de 'dragAtivo'
 function atualizarEstadoDrag() {
   const items = document.querySelectorAll("#items .item");
   const btnToggle = document.querySelector("#toggle-drag");
@@ -288,7 +287,7 @@ button.addEventListener("click", () => {
     <div style="font-family: Arial, sans-serif; font-size: 10pt; line-height: 1.5; color: #000;">
         <p><b>${Objeto(document.querySelector("#input-setor").value)} ${document.querySelector("#input-setor").value}</b></p>
         <p>Prezado (a) Senhor (a),</p>
-        <p>Considerando que a emissão do <b>Termo de Compromisso de Estágio</b> deve ser nos termos da <b>Resolução nº 036/2025</b>, bem como o <b>Ato Normativo TJES nº 007/2026</b>.</p>
+        <p>Considerando que a emissão do Termo de Compromisso da Residência Jurídica deve ser nos termos da Resolução nº 14/2025.</p>
         <p>Considerando que a documentação apresentada está em desacordo com a referida Resolução, conforme descrito e assinalado abaixo, devolvemos para regularização e reenvio a esta <b>Seção de Seleção e Acompanhamento de Estágio</b> para prosseguimento e análise do pedido:</p>
        
         <p style="margin: 0; font-weight: ${ls.getItem("bold") == "true" ? 700 : 400}; background-color: ${getCor(ls.getItem("cor"))}">${corpoDocumentos}</p>
